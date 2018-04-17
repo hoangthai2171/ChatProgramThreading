@@ -1,0 +1,7 @@
+C:\Users\SV\Desktop\full\Tuan 2.1\bin\Debug\Tuan 2.1.exe
+C:\Users\SV\Desktop\full\Tuan 2.1\bin\Debug\Tuan 2.1.pdb
+C:\Users\SV\Desktop\full\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Form1.resources
+C:\Users\SV\Desktop\full\Tuan 2.1\obj\x86\Debug\Tuan_2._1.Properties.Resources.resources
+C:\Users\SV\Desktop\full\Tuan 2.1\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\full\Tuan 2.1\obj\x86\Debug\Tuan 2.1.exe
+C:\Users\SV\Desktop\full\Tuan 2.1\obj\x86\Debug\Tuan 2.1.pdb
